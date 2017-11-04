@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="075918ac-18c1-4205-aabf-fb80fd47cf38" ReceiverAssembly="WorkPermitEscalation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5eac3cd8b583801c" ReceiverClass="WorkPermitEscalation.Features.Feature2.Feature2EventReceiver" Scope="Site" Title="WorkPermitEscalation Feature2"></Feature>
